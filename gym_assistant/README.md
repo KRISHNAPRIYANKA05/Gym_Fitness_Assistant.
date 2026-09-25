@@ -126,9 +126,3 @@ shared as one lightweight folder — a common, legitimate step when moving from 
 "proposed" architecture to a working proof-of-concept prototype).
 
 ---
-
-## 6. Sharing with a friend
-
-Just zip the whole `gym_assistant` folder (or share it via Google Drive/GitHub) —
-everything needed to run it (code + sample data + requirements.txt) is self-contained.
-Your friend only needs Python installed and to follow **Section 3** above.
