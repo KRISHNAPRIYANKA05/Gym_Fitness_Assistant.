@@ -1,0 +1,28 @@
+name,meal_type,diet_type,calories,protein_g,carbs_g,fat_g
+Oats with milk and banana,Breakfast,Veg,320,12,55,6
+Vegetable poha,Breakfast,Veg,250,6,45,5
+Paneer bhurji with roti,Breakfast,Veg,380,18,35,16
+Boiled eggs (2) with toast,Breakfast,Non-Veg,300,18,28,12
+Greek yogurt with fruits,Breakfast,Vegan,280,10,40,6
+Tofu scramble with veggies,Breakfast,Vegan,260,15,20,12
+Chicken sandwich (grilled),Breakfast,Non-Veg,350,25,30,12
+Dal rice and salad,Lunch,Veg,450,16,70,8
+Rajma chawal,Lunch,Veg,480,15,80,7
+Grilled chicken with quinoa,Lunch,Non-Veg,520,40,45,15
+Fish curry with brown rice,Lunch,Non-Veg,500,35,50,14
+Chickpea salad bowl,Lunch,Vegan,400,18,50,10
+Mixed vegetable curry with roti,Lunch,Veg,420,12,60,10
+Soya chunk curry with rice,Lunch,Vegan,430,22,55,8
+Grilled paneer salad,Dinner,Veg,350,20,20,18
+Vegetable soup with multigrain bread,Dinner,Veg,300,10,45,6
+Grilled fish with steamed vegetables,Dinner,Non-Veg,420,38,15,18
+Chicken stir fry with veggies,Dinner,Non-Veg,450,35,25,20
+Lentil soup with quinoa,Dinner,Vegan,380,18,50,8
+Stir fried tofu with brown rice,Dinner,Vegan,400,20,45,12
+Khichdi with curd,Dinner,Veg,350,12,55,8
+Mixed nuts (handful),Snack,Vegan,180,6,10,14
+Protein shake (whey),Snack,Non-Veg,150,25,5,3
+Fruit chaat,Snack,Veg,120,2,28,1
+Roasted chana,Snack,Vegan,160,9,22,4
+Sprouts salad,Snack,Veg,140,8,20,3
+Boiled egg (1) snack,Snack,Non-Veg,80,6,1,5

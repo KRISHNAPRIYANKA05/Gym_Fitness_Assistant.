@@ -1,0 +1,4 @@
+name,target_muscle,joint_used,calories_per_rep,ideal_rep_range
+Bicep Curl,Biceps,elbow,0.3,10-15
+Squat,Legs & Glutes,knee,0.5,12-20
+Push-up,Chest & Triceps,elbow,0.4,8-15

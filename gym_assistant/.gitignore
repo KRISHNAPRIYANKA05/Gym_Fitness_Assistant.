@@ -1,0 +1,7 @@
+venv/
+venv311/
+__pycache__/
+*.py[cod]
+.streamlit/secrets.toml
+data/*_log.csv
+.DS_Store

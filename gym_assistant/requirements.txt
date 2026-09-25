@@ -1,0 +1,6 @@
+streamlit==1.64.0
+opencv-python-headless==4.13.0.92
+mediapipe==0.10.14
+pandas>=2.0
+plotly>=5.20
+numpy>=1.26
